@@ -1,19 +1,14 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Robert Andrews",
-      "email": "andrewsrob@rocour.com"
-    },
-    {
-      "id": 2,
-      "name": "Samantha Collins",
-      "email": "samanthalins@rocour.com"
-    },
-    {
-      "name": "Gabriel Rodrigues",
+      "name": "Gabriel Rodrigues ",
       "email": "gabrielroodriz@gmail.com",
-      "id": 3
+      "id": 1
+    },
+    {
+      "name": "Eduardo Delfino",
+      "email": "du.delfino@gmail.com",
+      "id": 2
     }
   ]
 }
