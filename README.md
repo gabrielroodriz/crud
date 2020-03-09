@@ -368,3 +368,6 @@ Por fim, para ter uma aplicação que se adapta a todos os tipos de resolução,
     }
 }
 ~~~
+
+<hr>
+com ❤ Gabriel 
