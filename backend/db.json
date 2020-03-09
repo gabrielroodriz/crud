@@ -1,19 +1,19 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "Robert Andrews",
+      "email": "andrewsrob@rocour.com"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "name": "Samantha Collins",
+      "email": "samanthalins@rocour.com"
+    },
+    {
+      "name": "Gabriel Rodrigues",
+      "email": "gabrielroodriz@gmail.com",
+      "id": 3
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
