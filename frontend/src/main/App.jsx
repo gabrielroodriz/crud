@@ -4,7 +4,6 @@ import "./App.css";
 import React from "react";
 import { BrowserRouter } from "react-router-dom";
 
-import Router from "./Routes";
 
 import Logo from "../components/templates/Logo";
 import Nav from "../components/templates/Nav";
